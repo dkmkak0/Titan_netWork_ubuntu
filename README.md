@@ -1,1 +1,1 @@
-# Titan_netWork_ubuntu
+# Dowload Titan network with ubuntu 22.04 CLI
